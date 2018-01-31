@@ -1,7 +1,7 @@
 var friends = [
   {
     name: "Herbert",
-    photo: "/app/public/img/herbert.png",
+    photo: "https://goo.gl/images/V7Lpw4",
     scores: [
       "2",
       "5",
@@ -17,7 +17,7 @@ var friends = [
   },
   {
     name: "Jill",
-    photo: "/app/public/img/herbert.png",
+    photo: "https://goo.gl/images/r4WoiV",
     scores: [
       "3",
       "5",
@@ -33,7 +33,7 @@ var friends = [
   },
   {
     name: "Slash",
-    photo: "/app/public/img/slash.png",
+    photo: "https://goo.gl/images/xjTGL5",
     scores: [
       "5",
       "2",
@@ -49,7 +49,7 @@ var friends = [
   },
   {
     name: "Dexter",
-    photo: "/app/public/img/dexter.png",
+    photo: "https://goo.gl/images/MjL7V4",
     scores: [
       "4",
       "3",
@@ -65,7 +65,7 @@ var friends = [
   },
   {
     name: "Julio",
-    photo: "/app/public/img/Julio.png",
+    photo: "https://goo.gl/images/5rsfpr",
     scores: [
       "5",
       "3",
@@ -81,7 +81,7 @@ var friends = [
   },
   {
     name: "Lil Eugene",
-    photo: "/app/public/img/lileugene.png",
+    photo: "https://goo.gl/images/aVP9fY",
     scores: [
       "5",
       "4",
